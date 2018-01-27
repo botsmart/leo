@@ -1,0 +1,2 @@
+# typestruct
+Typescript Structure Abilities
